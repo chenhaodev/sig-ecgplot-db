@@ -1,0 +1,1 @@
+Alert! Spike noise detected between 14400.00 and 15000.00 seconds.

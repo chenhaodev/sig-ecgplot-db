@@ -1,0 +1,15 @@
+Optimal number of distributions: 2
+Number of valid distributions: 2
+The NNI data likely follows 2 distributions.
+Distribution 1:
+  Kurtosis: 2.29
+  Mean: 438.38 ms
+  Standard Deviation: 35.51 ms
+  1-SD Range: [402.87, 473.89] ms
+  2-SD Range: [367.35, 509.40] ms
+Distribution 2:
+  Kurtosis: 4.60
+  Mean: 645.15 ms
+  Standard Deviation: 102.86 ms
+  1-SD Range: [542.29, 748.01] ms
+  2-SD Range: [439.43, 850.87] ms
