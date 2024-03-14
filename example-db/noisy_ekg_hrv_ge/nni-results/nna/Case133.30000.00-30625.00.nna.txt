@@ -1,9 +1,0 @@
-Optimal number of distributions: 1
-Number of valid distributions: 1
-The NNI data likely follows a single distribution.
-Distribution 1:
-  Kurtosis: 2.62
-  Mean: 711.65 ms
-  Standard Deviation: 102.06 ms
-  1-SD Range: [609.59, 813.71] ms
-  2-SD Range: [507.54, 915.77] ms

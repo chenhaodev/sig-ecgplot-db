@@ -1,7 +1,0 @@
-Alert! Spike noise detected between 18000.00 and 18600.00 seconds.
-Alert! Spike noise detected between 45600.00 and 46200.00 seconds.
-Alert! Spike noise detected between 54000.00 and 54600.00 seconds.
-Alert! Spike noise detected between 54600.00 and 55200.00 seconds.
-Alert! Spike noise detected between 67800.00 and 68400.00 seconds.
-Alert! Spike noise detected between 69000.00 and 69600.00 seconds.
-Alert! Spike noise detected between 78000.00 and 78600.00 seconds.

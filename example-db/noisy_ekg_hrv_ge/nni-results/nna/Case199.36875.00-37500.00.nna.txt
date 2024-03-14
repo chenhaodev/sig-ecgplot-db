@@ -1,2 +1,0 @@
-Optimal number of distributions: 2
-No valid distributions found (all distributions have fewer than 60 samples).
